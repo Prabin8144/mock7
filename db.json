@@ -1,0 +1,187 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "category": "a1",
+      "image_url": "https://cdn.pixabay.com/photo/2015/09/30/01/48/turkey-964831__340.jpg",
+      "type_of_room": "Ac",
+      "bed_type": "single",
+      "no_of_persons": "2",
+      "capacity": "2",
+      "cost": "2345",
+      "booked": false
+    },
+    {
+      "id": 2,
+      "category": "a12",
+      "image_url": "https://cdn.pixabay.com/photo/2015/09/30/01/48/turkey-964831__340.jpg",
+      "type_of_room": "Ac",
+      "bed_type": "single",
+      "no_of_persons": "22",
+      "capacity": "32",
+      "cost": "23q45",
+      "booked": false
+    },
+    {
+      "id": 3,
+      "category": "a2",
+      "image_url": "https://cdn.pixabay.com/photo/2015/09/30/01/48/turkey-964831__340.jpg",
+      "type_of_room": "Non-Ac",
+      "bed_type": "single",
+      "no_of_persons": "3",
+      "capacity": "4",
+      "cost": "3323",
+      "booked": true
+    },
+    {
+      "category": "family",
+      "img": "ac",
+      "type": "single",
+      "bedtype": "",
+      "capacity": "",
+      "cost": "",
+      "book": "true",
+      "id": 4
+    },
+    {
+      "category": "family",
+      "img": "ac",
+      "type": "single",
+      "bedtype": "",
+      "capacity": "",
+      "cost": "",
+      "book": "true",
+      "id": 5
+    },
+    {
+      "category": "family",
+      "img": "ac",
+      "type": "single",
+      "bedtype": "",
+      "capacity": "",
+      "cost": "",
+      "book": "true",
+      "id": 6
+    },
+    {
+      "category": "family",
+      "img": "ac",
+      "type": "single",
+      "bedtype": "",
+      "capacity": "",
+      "cost": "",
+      "book": "true",
+      "id": 7
+    },
+    {
+      "category": "family",
+      "img": "ac",
+      "type": "single",
+      "bedtype": "",
+      "capacity": "",
+      "cost": "",
+      "book": "true",
+      "id": 8
+    },
+    {
+      "category": "family",
+      "img": "ac",
+      "type": "single",
+      "bedtype": "",
+      "capacity": "",
+      "cost": "",
+      "book": "true",
+      "id": 9
+    },
+    {
+      "category": "family",
+      "img": "ac",
+      "type": "single",
+      "bedtype": "",
+      "capacity": "",
+      "cost": "",
+      "book": "true",
+      "id": 10
+    },
+    {
+      "category": "",
+      "img": "",
+      "type": "",
+      "bedtype": "",
+      "capacity": "2",
+      "cost": "undefined",
+      "book": "",
+      "id": 11
+    },
+    {
+      "category": "family",
+      "img": "ac",
+      "type": "single",
+      "bedtype": "54",
+      "capacity": "545",
+      "cost": "454",
+      "book": "true",
+      "id": 12
+    },
+    {
+      "category": "family",
+      "img": "ac",
+      "type": "single",
+      "bedtype": "",
+      "capacity": "",
+      "cost": "",
+      "book": "true",
+      "id": 13
+    },
+    {
+      "category": "family",
+      "img": "non ac",
+      "type": "double",
+      "bedtype": "23",
+      "capacity": "3",
+      "cost": "322",
+      "book": "false",
+      "id": 14
+    },
+    {
+      "category": "family",
+      "img": "ac",
+      "type": "single",
+      "bedtype": "",
+      "capacity": "",
+      "cost": "",
+      "book": "true",
+      "id": 15
+    },
+    {
+      "category": "family",
+      "img": "ac",
+      "type": "single",
+      "bedtype": "23",
+      "capacity": "322",
+      "cost": "9955",
+      "book": "true",
+      "id": 16
+    },
+    {
+      "category": "family",
+      "img": "ac",
+      "type": "single",
+      "bedtype": "23",
+      "capacity": "2",
+      "cost": "24",
+      "book": "false",
+      "id": 17
+    },
+    {
+      "category": "",
+      "img": "",
+      "type": "single",
+      "bedtype": "2",
+      "capacity": "2345",
+      "cost": "false",
+      "book": "true",
+      "id": 18
+    }
+  ]
+}
